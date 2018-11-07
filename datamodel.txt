@@ -1,0 +1,2 @@
+用户id 游戏one 游戏two 游戏three 点击次数  浏览次数  购买次数
+1      XXX      XXXX    XXX        2       3         4 
